@@ -14,9 +14,8 @@ body {
     padding: 20px;
 }
 
-img {
-  max-width: 100%;
-  height: auto;
+.resizeimage img {
+  width: 80%;
 }
 
 .container {
