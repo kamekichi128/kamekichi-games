@@ -14,10 +14,6 @@ body {
     padding: 20px;
 }
 
-.resizeimage img {
-  width: 80%;
-}
-
 .container {
     max-width: 900px;
     margin: 0 auto;
